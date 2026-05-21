@@ -1,0 +1,14 @@
+# Build artifacts
+profiler
+src/*.o
+profile_results.csv
+*_plot.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
